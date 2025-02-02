@@ -36,6 +36,13 @@ The goal is to analyze and visualize the fashion dataset to understand key patte
 
 This fashion dataset analysis provides valuable insights into consumer preferences, pricing trends, and the impact of customer reviews on sales performance. By identifying popular categories, price ranges, and seasonal patterns, this analysis offers actionable information for businesses looking to optimize their offerings. Additionally, by exploring the relationship between customer ratings and product performance, we can improve product recommendations and marketing strategies.
 
-With further work, such as predictive modeling and sentiment analysis, this project can evolve to offer even more impactful insights into the future of fashion. 🚀
+## Contact Me 📧
+
+For more details, collaborations, or inquiries, feel free to reach out to me via email at:  
+**Swastik Chattopadhyay**  
+📧 [Swastik-2024-Gmail](mailto:swastikchattopadhyay.2024@gmail.com)
+
+I'm always happy to discuss the project, share insights, or answer any questions you may have! 🤝
+
 
 
